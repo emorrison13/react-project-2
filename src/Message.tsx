@@ -1,6 +1,6 @@
 function Message() {
 
-    return <h1>Hello World</h1>;
+    return <div><h1>Hello World</h1><p>test</p></div>;
 }
 
 export default Message;
